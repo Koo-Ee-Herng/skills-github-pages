@@ -1,6 +1,4 @@
 ---
 title: Welcome to my blog!
+about: Just a chill guy
 ---
-# ABOUT ME
-I'm just a chill guy :)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
